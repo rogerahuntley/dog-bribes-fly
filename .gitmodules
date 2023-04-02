@@ -1,0 +1,9 @@
+[submodule "dogbribes-svelte"]
+	path = dogbribes-svelte
+	url = https://github.com/rogerahuntley/dogbribes-svelte
+[submodule "dogbribes-discord-bot"]
+	path = dogbribes-discord-bot
+	url = https://github.com/rogerahuntley/dogbribes-discord-bot
+[submodule "dogbribes-pb"]
+	path = dogbribes-pb
+	url = https://github.com/rogerahuntley/dogbribes-pb
